@@ -1,0 +1,20 @@
+[
+    {
+    "title":"Monitor",
+    "price":888,
+    "thumbnail":"direccion_Monitor",
+    "id":1
+    },
+    {
+    "title":"teclado",
+    "price":222,
+    "thumbnail":"direccion_Teclado",
+    "id":2
+    },
+    {
+    "title":"mouse",
+    "price":333,
+    "thumbnail":"direccion_Mouse",
+    "id":3
+    }
+]
